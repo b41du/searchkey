@@ -1,0 +1,1 @@
+var arr_pages = ["/work/10070.html", "/fang/9031.html", "/fang/9030.html"];
